@@ -8,12 +8,16 @@ To test your knowlege on a number of cool flashcard decks.
 ### Installation
 ```
 $ git clone [git-repo-url]
-$ cd /full-bellies
+$ cd /repo
 $ bundle
 $ rake db:create
 $ rake db:migrate
 $ rake db:seed
-$ rails s
+$ be shotgun
 ```
+
+### Technologies
+BCrypt
+Sinatra
 
 #### Created at Dev Bootcamp NYC
