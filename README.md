@@ -17,7 +17,7 @@ $ be shotgun
 ```
 
 ### Technologies
-BCrypt
-Sinatra
+*BCrypt
+*Sinatra
 
 #### Created at Dev Bootcamp NYC
