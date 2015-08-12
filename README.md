@@ -5,4 +5,15 @@
 ### Purpose
 To test your knowlege on a number of cool flashcard decks.
 
+### Installation
+```
+$ git clone [git-repo-url]
+$ cd /full-bellies
+$ bundle
+$ rake db:create
+$ rake db:migrate
+$ rake db:seed
+$ rails s
+```
+
 #### Created at Dev Bootcamp NYC
